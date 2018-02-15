@@ -1,0 +1,29 @@
+{
+  "name": "maen-stack-with-anguler2-zaad",
+  "version": "1.0.0",
+  "description": "MAEN Stack with anguler2 zaad",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hathefah/MAEN-stack-with-anguler2-zaad.git"
+  },
+  "keywords": [
+    "MAEN",
+    "Stack",
+    "anguler2",
+    "zaad"
+  ],
+  "author": "Hathefah Al-shrami",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hathefah/MAEN-stack-with-anguler2-zaad/issues"
+  },
+  "homepage": "https://github.com/hathefah/MAEN-stack-with-anguler2-zaad#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "mongoose": "^5.0.4"
+  }
+}
